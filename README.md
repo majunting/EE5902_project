@@ -15,8 +15,8 @@ To install YAML:
         	sudo apt-get install cmake
 	- Boost libs
     		sudo apt-get install libboost-dev	
-    	Then download code from https://github.com/jbeder/yaml-cpp/archive/master.zip
-    	and execute the following comamnds:
+    Then download code from https://github.com/jbeder/yaml-cpp/archive/master.zip
+    and execute the following comamnds:
 		unzip yaml-cpp-master.zip
 		mv yaml-cpp-master yaml-cpp
 		cd yaml-cpp
